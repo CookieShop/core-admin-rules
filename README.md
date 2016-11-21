@@ -1,3 +1,3 @@
 ```bash
-$ composer require adteam/core-common
+$ composer require adteam/core-admin-rules
 ```
